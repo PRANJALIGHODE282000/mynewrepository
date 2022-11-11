@@ -1,0 +1,5 @@
+Apple  red
+Banana yellow
+Mango green
+Orange orange
+Papaya blue

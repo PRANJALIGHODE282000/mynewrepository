@@ -1,0 +1,9 @@
+create table emp100 ( empno int,
+empName varchar(10),
+job varchar(10),
+mgr int,
+hiredate date,
+sal int,
+comm int,
+deptno int
+)
